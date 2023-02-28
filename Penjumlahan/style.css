@@ -1,0 +1,31 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: linear-gradient(45deg,#c57300, #f3a73d);
+    background-repeat: no-repeat;
+    height: 100vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 40px;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 40% auto;
+}
+
+.left{
+    color: aliceblue;
+}
+
+.header{
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.penjumlahan{
+    padding-bottom: 10px;
+}
+
+.right{
+    padding-top: 15%;
+}
